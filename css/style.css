@@ -1,1 +1,32 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: "Verdana", Arial, Helvetica, sans-serif;
+}
+
+body h1 {
+  font-size: 50px;
+}
+
+body p {
+  font-size: 21px;
+  color: gray;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+
+.right-align {
+  text-align: right;
+}
+
+.link a {
+  color: aquamarine;
+  font-size: 14;
+}
+/*# sourceMappingURL=style.css.map */
